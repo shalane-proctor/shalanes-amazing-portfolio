@@ -1,0 +1,98 @@
+[
+        {
+        "id": "1",
+        "name": "Gabe",
+        "company": "Caregiving.com",
+        "title": "your curiosity sets you apart",
+        "tldr": "...I'm not just saying that, I've worked with a lot of new devs over the years and your curiosity sets you apart.",
+        "quote": "...that's evident with how much you've grown as a dev. For real I'm not just saying that, I've worked with a lot of new devs over the years and your curiosity sets you apart. Keep attacking problems with that same curiosity, its a super power that will take you far. Thanks for the kind words and I know you'll continue to grow and build awesome things in this career."
+        },
+      {
+        "id": "2",
+        "name": "CJ",
+        "company": "Caregiving.com",
+        "title": "recommendation",
+        "tldr": "You are a great developer. You far exceeded any expectations I've had, and I can honestly say you've shown an aptitude to learn and accomplish more than many devs I've worked with in the past.",
+        "quote": "You are a great developer. You far exceeded any expectations I've had, and I can honestly say you've shown an aptitude to learn and accomplish more than many devs I've worked with in the past. And you are a good person, who I've had a lot of fun working with."
+      },
+      {
+        "id": "3",
+        "name": "CJ",
+        "company": "Caregiving.com",
+        "title": "recommendation",
+        "tldr": "I can confidently recommend Shay as a developer whose skills and understanding of technology extend far beyond her initial experience.",
+        "quote": "Shay joined our team with a solid foundation in web development and a genuine eagerness to learn. She has consistently exceeded my expectations, handling a diverse range of tasks independently and efficiently, often requiring minimal guidance. This versatility extends to her exceptional customer support and client relations skills. She consistently maintains professionalism while adeptly managing these interactions, showcasing her ability to multitask and excel across various responsibilities.\n\nShay's intelligence and diligence are evident not just in her approach to complex problems, but also in her ability to rapidly learn new technologies and continuously level up her existing skillset, like React. Despite needing to learn new areas on the fly, she consistently delivers tasks proficiently and on schedule.\n\nShe meets difficult challenges with perseverance and patience, and approaches roadblocks with self-awareness and open communication, always willing to seek clarification when necessary. This is further amplified by her collaborative spirit, making her a developer that thrives in a team environment.\n\nI can confidently recommend Shay as a developer whose skills and understanding of technology extend far beyond her initial experience. Her quick grasp of new concepts and her ability to implement them effectively have been instrumental to our continued growth.\n"
+      },
+      {
+        "id": "4",
+        "name": "1.2.3.4",
+        "company": "Company Name",
+        "title": "recommendation",
+        "tldr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      {
+        "id": "5",
+        "name": "2.3.4.5",
+        "company": "Company Name",
+        "title": "recommendation",
+        "tldr": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "quote": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "id": "6",
+        "name": "3.4.5.6",
+        "company": "Company Name",
+        "title": "recommendation",
+        "tldr": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "quote": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32."
+      },
+      {
+        "id": "7",
+        "name": "6.7.8.9",
+        "company": "Company Name",
+        "title": "recommendation",
+        "tldr": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "quote": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+      },
+      {
+        "id": "8",
+        "name": "4.5.6.7",
+        "company": "Company Name",
+        "title": "recommendation",
+        "tldr": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system...",
+        "quote": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+      },
+      {
+        "id": "9",
+        "name": "Anew Person",
+        "company": "Company Name",
+        "title": "recommendation",
+        "tldr": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate...",
+        "quote": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+      },
+      {
+            "id": "10",
+            "name": "Anotha Persons",
+            "company": "Company Name",
+            "title": "recommendation",
+            "tldr": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire,...",
+            "quote": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains"
+      },
+      {
+            "id": "11",
+            "name": "Vaulty McVaultface",
+            "company": "Company Name",
+            "title": "recommendation",
+            "tldr": "I like turtles.",
+            "quote": "I like turtles."
+      },
+      {
+        "id": "12",
+        "name": "Randoma Invidual",
+        "company": "Company Name",
+        "title": "recommendation",
+        "tldr": "Shay is a really dope developer. She's super smart and has a great attitude.",
+        "quote": "Shay is a really dope developer. She's super smart and has a great attitude. She's always willing to learn and grow. She's a great team player and is always willing to help out. She's a great asset to any team. I highly recommend her."
+      }
+]

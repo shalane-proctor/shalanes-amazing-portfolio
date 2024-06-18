@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3840 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(1,0,0,0.285806,0,0)">
+        <rect x="0" y="0" width="3840" height="1000" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="0" y="0" width="3840" height="1000"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1.60691,0,0,7.81326,-610.07,-1121.14)">
+                <text x="374.843px" y="185.276px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:64.485px;fill:rgb(0,204,255);fill-opacity:0;">01110011 0110</text>
+                <text x="877.908px" y="185.276px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:64.485px;fill:rgb(0,204,255);">1000 01100001 01101100 01100001 0110</text>
+                <g transform="matrix(64.485,0,0,64.485,2812.77,185.276)">
+                </g>
+                <text x="2271.01px" y="185.276px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:64.485px;fill:rgb(0,204,255);fill-opacity:0;">1110 01100101</text>
+            </g>
+            <g transform="matrix(1.60527,0,0,7.81326,-2152.36,-772.441)">
+                <text x="1337.23px" y="225.906px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:64.485px;fill:rgb(0,204,255);fill-opacity:0;">01110000 0111</text>
+                <text x="1840.3px" y="225.906px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:64.485px;fill:rgb(0,204,255);">0010 01101111 01100011 01110100 0110</text>
+                <g transform="matrix(64.485,0,0,64.485,3736.46,225.906)">
+                </g>
+                <text x="3233.4px" y="225.906px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:64.485px;fill:rgb(0,204,255);fill-opacity:0;">1111 01110010</text>
+            </g>
+            <g transform="matrix(1,0,0,3.49888,-497.748,79.6016)">
+                <g transform="matrix(100,0,0,100,3528.64,141.368)">
+                </g>
+                <text x="1308.28px" y="141.368px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:100px;fill:rgb(195,143,255);">Built and designed by Shalane Proctor</text>
+            </g>
+            <g transform="matrix(1,0,0,5.28589,-225.139,-234.562)">
+                <g transform="matrix(0.719596,0,0,1,60.6261,0)">
+                    <text x="216.209px" y="137.47px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:144px;fill:rgb(0,204,255);">01110011 0110</text>
+                </g>
+                <g transform="matrix(0.718862,0,0,1,60.7847,0)">
+                    <g transform="matrix(144,0,0,144,1339.59,231.658)">
+                    </g>
+                    <text x="216.209px" y="231.658px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:144px;fill:rgb(0,204,255);">01110000 0111</text>
+                </g>
+            </g>
+            <g transform="matrix(1.00473,0,0,5.38741,-168.162,-253.093)">
+                <g transform="matrix(0.719596,0,0,1,893.84,0)">
+                    <text x="3187.68px" y="138.385px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:144px;fill:rgb(0,204,255);">1110 01100101</text>
+                </g>
+                <g transform="matrix(0.718862,0,0,1,896.178,0)">
+                    <g transform="matrix(144,0,0,144,4311.06,232.385)">
+                    </g>
+                    <text x="3187.68px" y="232.385px" style="font-family:'CourierNewPS-BoldMT', 'Courier New', monospace;font-weight:700;font-size:144px;fill:rgb(0,204,255);">1111 01110010</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
