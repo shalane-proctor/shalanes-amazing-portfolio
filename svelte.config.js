@@ -4,6 +4,9 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 const config = {
 	kit: {
 		adapter: adapter({
+			paths: {
+				base: './'
+			},
 			runtime: 'nodejs20.x',
 			images: {
 				sizes: [640, 828, 1200, 1920, 3840],
