@@ -1,15 +1,22 @@
 {
-  "version": 2,
-  "routes": [
+  "headers": [
     {
-      "src": "/(.*).js",
-      "headers": { "Content-Type": "application/javascript" },
-      "dest": "/$1.js"
+      "source": "/_app/immutable/assets/(.*).css",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/css"
+        }
+      ]
     },
     {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/smui.css",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/css"
+        }
+      ]
     }
   ]
 }
-
