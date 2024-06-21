@@ -26,7 +26,7 @@
 				<li class="nav-item"><a class="nav-link" href="/contact">FAQS</a></li>
 				<li class="nav-item"><a class="nav-link" href="/experience">Experience</a></li>
 				<li class="nav-item"><a class="nav-link" href="/recommendations">Recommendations</a></li>
-				<li class="nav-item"><a class="nav-link" href="/sverdle">Game</a></li>
+				<!-- <li class="nav-item"><a class="nav-link" href="/sverdle">Game</a></li> -->
 				<li class="nav-item">
 					<a class="nav-social" href="https://github.com/shalane-proctor">
 						<img class="github" src={github} alt="GitHub" />
