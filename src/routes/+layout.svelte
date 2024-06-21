@@ -1,7 +1,7 @@
 <script>
 	import Header from '$lib/Header.svelte';
 	import Marquee from '$lib/Marquee.svelte';
-	import './style.css';
+	import './styles.css';
 </script>
 
 <svelte:head>

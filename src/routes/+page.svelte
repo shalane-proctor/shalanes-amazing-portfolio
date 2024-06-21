@@ -1,11 +1,6 @@
 <script>
-	import { onMount } from 'svelte';
 	import avatar from '$lib/images/avatar.png';
 	import logo2 from '$lib/images/logo2.svg';
-
-	onMount(() => {
-		console.log('Page mounted');
-	});
 </script>
 
 <svelte:head>
