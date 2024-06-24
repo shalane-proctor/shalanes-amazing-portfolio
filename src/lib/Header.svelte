@@ -23,7 +23,7 @@
 		<div class="collapse" class:open={isOpen}>
 			<ul class="navbar-nav">
 				<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-				<li class="nav-item"><a class="nav-link" href="/contact">FAQS</a></li>
+				<li class="nav-item"><a class="nav-link" href="/faqs">FAQS</a></li>
 				<li class="nav-item"><a class="nav-link" href="/experience">Experience</a></li>
 				<li class="nav-item"><a class="nav-link" href="/recommendations">Recommendations</a></li>
 				<!-- <li class="nav-item"><a class="nav-link" href="/sverdle">Game</a></li> -->

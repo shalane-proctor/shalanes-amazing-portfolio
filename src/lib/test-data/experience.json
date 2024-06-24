@@ -1,0 +1,241 @@
+[
+  {
+    "id": "1",
+    "type": "technical",
+    "title": "Customer Experience Engineer/Full Stack Engineer",
+    "datetime": "December 2022 - June 2024",
+    "company": "Caregiving.com",
+    "description": "Full stack engineer responsible for refactoring code, implementing solutions, and collaborating with design and technical teams.",
+    "bullet_points": [
+      "Utilized agile methodology via Jira for project management to communicate, create, and track tasks.",
+      "Completely refactored existing code for REST API calls, designs, and data structures for the user commenting system, integrating updates into the React front end and Go back end code for the site.",
+      "Implemented solution for image optimization using a Javascript utility conversion function to convert any images stored within assets to .webp when running node script.",
+      "Collaborated closely with the design team, ensuring that the product's visual and functional aspects were consistently updated and aligned with the established product mapping.",
+      "Communicated with and successfully onboarded 3 corporate clients and 2 nonprofit clients.",
+      "Responded to Carely app user emails to effectively assist with app related issues.",
+      "Facilitated relations between technical teams of hospice facilities and demonstrated client management system for JoyPath app."
+    ],
+    "skills": [
+      {
+        "id": "1",
+        "name": "JavaScript",
+        "level": "Advanced"
+      },
+      {
+        "id": "2",
+        "name": "React.JS",
+        "level": "Advanced"
+      },
+      {
+        "id": "3",
+        "name": "Golang (Go)",
+        "level": "Intermediate"
+      },
+      {
+        "id": "4",
+        "name": "Jira",
+        "level": "Advanced"
+      },
+      {
+        "id": "5",
+        "name": "Agile Methodology",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "type": "technical",
+    "title": "Software Engineer & Customer Solutions",
+    "datetime": "September 2023 - Current",
+    "company": "myCopilot.ai",
+    "description": "Volunteer software engineer collaborating on app enhancements and managing customer solutions.",
+    "bullet_points": [
+      "Collaborate with the founder to strategize innovative ideas for future app enhancements.",
+      "Implementing modern and user-friendly designs for the web page using Gatsby.",
+      "Developing using Flutter to optimize app performance and conduct detailed debugging for improved functionality.",
+      "Manage customer inquiries to provide effective solutions for user feedback and monitor reported bugs.",
+      "Offering strategic guidance on enhancing customer engagement, focusing on interactive, and responsive communication methods.",
+      "Using Notion to communicate, create, and track projects employing agile methodology."
+    ],
+    "skills": [
+      {
+        "id": "6",
+        "name": "Gatsby",
+        "level": "Intermediate"
+      },
+      {
+        "id": "7",
+        "name": "Flutter",
+        "level": "Intermediate"
+      },
+      {
+        "id": "8",
+        "name": "Notion",
+        "level": "Advanced"
+      },
+      {
+        "id": "5",
+        "name": "Agile Methodology",
+        "level": "Advanced"
+      },
+      {
+        "id": "22",
+        "name": "Python",
+        "level": "Intermediate"
+      },
+      {
+        "id": "23",
+        "name": "FastAPI",
+        "level": "Intermediate"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "type": "other",
+    "title": "Tech Support Specialist",
+    "datetime": "May 2021 - December 2022",
+    "company": "Jabra Enhance",
+    "description": "Tech support specialist providing empathetic and concise communication for technical issues.",
+    "bullet_points": [
+      "Troubleshot in-depth technical issues with clear and concise communication.",
+      "Provided empathy and compassion when communicating technical issues to non-technical users.",
+      "Broke down and evaluated user problems using personal expertise and probing questions.",
+      "Consistently received the highest NPS on the team."
+    ],
+    "skills": [
+      {
+        "id": "9",
+        "name": "Technical Troubleshooting",
+        "level": "Advanced"
+      },
+      {
+        "id": "10",
+        "name": "Customer Communication",
+        "level": "Advanced"
+      },
+      {
+        "id": "11",
+        "name": "Empathy",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "type": "other",
+    "title": "IT RAD Ops Associate",
+    "datetime": "November 2020 - May 2021",
+    "company": "Amazon",
+    "description": "Provided special system permissions to work closely with the engineering team to resolve problems in processing for the intake of returned fulfillment scanning and technical equipment from other warehouses sent in for repair.",
+    "bullet_points": [
+      "Provided special system permissions to work closely with the engineering team to resolve problems in processing for the intake of returned fulfillment scanning and technical equipment from other warehouses sent in for repair."
+    ],
+    "skills": [
+      {
+        "id": "12",
+        "name": "System Permissions Management",
+        "level": "Intermediate"
+      },
+      {
+        "id": "13",
+        "name": "Problem Solving",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "type": "other",
+    "title": "Claims Customer Care Specialist",
+    "datetime": "September 2017 - May 2020",
+    "company": "Lyft",
+    "description": "Ensured accuracy when documenting accident reports and providing customer support in a fast-paced environment.",
+    "bullet_points": [
+      "Ensured accuracy when documenting accident reports and sending to insurance partner to process claims.",
+      "Provided customer support in a fast-paced environment to ensure safety and efficiency.",
+      "Assisted drivers and passengers in emergency situations with empathy and compassion."
+    ],
+    "skills": [
+      {
+        "id": "14",
+        "name": "Accident Documentation",
+        "level": "Advanced"
+      },
+      {
+        "id": "15",
+        "name": "Customer Support",
+        "level": "Advanced"
+      },
+      {
+        "id": "11",
+        "name": "Empathy",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "type": "education",
+    "title": "Web Developer Certificate",
+    "datetime": "April 2022 - March 2023",
+    "company": "Nashville Software School",
+    "description": "Intensive part-time software development bootcamp focusing on full stack development fundamentals and problem solving. The final half of the program are executed in a simulated company environment with Scrum methodology.",
+    "bullet_points": [
+      "Daily hands on application of OOP fundamentals through group and individual projects",
+      "Created single page applications in JavaScript, as well as in the React framework",
+      "Project management/tracking with GitHub project boards and issue tracking",
+      "Source code/version control with Git/GitHub",
+      "Solution Design: white-boarding and wireframes",
+      "Leveraged Django for creating and editing server-generated web applications",
+      "Created RESTful API’s with Django REST framework",
+      "Retrieved and stored database information with SQLite",
+      "Practiced testing with Python’s unit test framework"
+    ],
+    "skills": [
+      {
+        "id": "1",
+        "name": "JavaScript",
+        "level": "Advanced"
+      },
+      {
+        "id": "2",
+        "name": "React.JS",
+        "level": "Advanced"
+      },
+      {
+        "id": "20",
+        "name": "Github",
+        "level": "Advanced"
+      },
+      {
+        "id": "21",
+        "name": "Restful APIs",
+        "level": "Advanced"
+      },
+      {
+        "id": "22",
+        "name": "Python",
+        "level": "Intermediate"
+      },
+      {
+        "id": "24",
+        "name": "Django",
+        "level": "Intermediate"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "type": "education",
+    "title": "High School Diploma",
+    "datetime": "April 2009 - March 2013",
+    "company": "Wilson Central High School",
+    "description": "",
+    "bullet_points": [
+        "Graduated with 3.5 GPA"
+    ],
+    "skills": []
+  }
+]

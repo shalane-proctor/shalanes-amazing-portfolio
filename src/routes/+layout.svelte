@@ -51,11 +51,9 @@
 		display: flex;
 		flex-direction: column;
 		padding: 1rem;
-		max-width: 90%;
-		margin: 50px auto 100px auto;
 		box-sizing: border-box;
 			@media (max-width: 786px) {
-        margin: 10px auto 100px auto;
+        max-width: 100%;
 			}
 	}
 

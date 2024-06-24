@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "label": "What did you use to build this site?",
+    "type": "faq",
+    "body": "This site's front end was built with Svelte. The data is stored on Heroku Postgres. The backend is build using FastAPI. The site is hosted Vercel for the front end and Heroku for the back end. The code is available on my Github. Fun fact, I didn't know Svelte or FastAPI before I started this project, but I learned them as I went along! I also wasn't super familiar with Heroku or Vercel, but I became very aquainted with them through this. I'm always up for a challenge and love learning new things!",
+    "linkLabel": "View the code on Github",
+    "link": "https://github.com/shalane-proctor/shalane-proctor-portfolio"
+  },
+  {
+    "id": 2,
+    "label": "Who created the art and UI designs for this page?",
+    "type": "faq",
+    "body": "Me! I'm a self-taught digital illustrator and graphic designer, although I've been doing art since I was a little kid. I created all the art and UI designs for this page using Affinity Designer 2. I love combining my passion for art and design with my technical skills to create beautiful and functional websites. If you have any feedback or suggestions for the design, I'd love to hear them! I am open for commissions for art and design!",
+    "linkLabel": "",
+    "link": ""
+  },
+  {
+    "id": 3,
+    "label": "Do you do freelance work? Are you open to contract work? Can you create a website like this or design art for me?",
+    "type": "faq",
+    "body": "Yes! I'm currently accepting freelance projects and contract work for web development, digital illustration, and graphic design. My rate is negotiable, but generally I charge $60 an hour for web development and $40 an hour for art and design. I'm open to all kinds of projects, so feel free to reach out to me with your ideas and we can discuss how I can help you bring them to life! You can contact me at the email below. I'm looking forward to working with you!",
+    "linkLabel": "Email me to discuss your project!",
+    "link": "mailto: shalaneproctor@gmail.com"
+  },
+  {
+    "id": 4,
+    "label": "What is your next step for your career?",
+    "type": "faq",
+    "body": "I'm currently looking for a full-time position as a software engineer or web developer. I'm passionate about creating beautiful and functional websites and applications, and I'm excited to continue learning and growing in my career. I'm open to opportunities in a variety of industries, so if you think I'd be a good fit for your team, I'd love to hear from you! You can contact me at shalaneproctor@gmail.com.",
+    "linkLabel": "",
+    "link": ""
+  },
+  {
+    "id": 5,
+    "label": "What's the next thing you are planning to learn?",
+    "type": "faq",
+    "body": "I plan to learn game development and create my own indie games. I'm always looking for new challenges and opportunities to expand my skills and knowledge!",
+    "linkLabel": "",
+    "link": ""
+  },
+  {
+    "id": 6,
+    "label": "What are some of your hobbies?",
+    "type": "faq",
+    "body": "I love playing video games such as Call of Duty, Baldur's Gate 3, any FromSoft game (Dark Souls, Elden Ring, BloodBorne), Fallout, The Sims and other life sims, crafting and survival games (Palworld, the Forest, Valheim), and strategy games like Civ 6. I play most style of games, so what I am currently playing changes frequently. I also enjoy hiking (especially at waterfalls), reading (horror and thrillers), and creating random crafts, art, or building things. I'm always looking for new hobbies and interests to explore!",
+    "linkLabel": "",
+    "link": ""
+  },
+  {
+    "id": 7,
+    "label": "Other fun facts about you?",
+    "type": "faq",
+    "body": "I'm neurodivergent AuDHD and as much as it can be a struggle sometimes, I also love this part of me and I think it makes me a great software engineer and artist. When I was 23, I did 6 months of a tattoo apprenticeship, but I decided it wasn't for me. I have a wonderful husband, Andrew, and 4 beautiful cats, PicklePea, PumpaRum, Snuggly, and Sparkly.",
+    "linkLabel": "",
+    "link": ""
+  }
+]
