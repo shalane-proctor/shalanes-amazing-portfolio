@@ -1,49 +1,32 @@
 <script>
 	import Accordion, { Panel, Header, Content } from '@smui-extra/accordion';
+
+	export let items = [];
 </script>
 
 <div class="accordion-container">
 	<Accordion>
-		<Panel>
-			<Header>Panel 1</Header>
-			<Content>
-				The content for panel 1.
-
-				<ul>
-					<li>Some</li>
-					<li>List</li>
-					<li>Items</li>
-				</ul>
-			</Content>
-		</Panel>
-		<Panel>
-			<Header>Panel 2</Header>
-			<Content>The content for panel 2.</Content>
-		</Panel>
-		<Panel>
-			<Header>Panel 3</Header>
-			<Content>
-				The content for panel 3.
-
-				<ul>
-					<li>Some</li>
-					<li>More</li>
-					<li>List</li>
-					<li>Items</li>
-					<li>To</li>
-					<li>Show</li>
-					<li>Big</li>
-					<li>Height</li>
-				</ul>
-			</Content>
-		</Panel>
-		<Panel>
-			<Header>Panel 4</Header>
-			<Content>
-				Some Words
-			</Content>
-		</Panel>
+		{#each items as item}
+			<Panel style="background-color: var(--nav-color)">
+				<Header style="font-family: var(--font-main); color: var(--color-near-white); font-weight: 700">{item.label}</Header>
+				<Content style="font-family: var(--font-main); color: var(--color-near-white)">{item.body}</Content>
+				{#if item.link}
+					<Content style="font-family: var(--font-main); color: var(--color-near-white)"><a href={item.link}>{item.linkLabel}</a></Content>
+				{/if}
+			</Panel>
+		{/each}
 	</Accordion>
 </div>
 
-
+<style>
+    .accordion-container {
+        margin: 0 auto;
+        width: 100%;
+				@media (min-width: 786px) {
+					max-width: 90%;
+				}
+    }
+		a {
+			color: var(--color-text-3);
+		}
+</style>

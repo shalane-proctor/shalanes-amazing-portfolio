@@ -59,7 +59,7 @@
 <div class="container">
 	<div class="title">
 		<h1>Recommendations</h1>
-		<h2>Here are some recommendations from my colleagues and friends.</h2>
+		<h2>Here are some recommendations from my colleagues.</h2>
 	</div>
 	<div class="wrapper">
 		<div class="background">

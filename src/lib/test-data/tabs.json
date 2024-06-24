@@ -1,0 +1,26 @@
+[
+  {
+    "type": "experience",
+    "subtype": "technical",
+    "icon": "terminal",
+    "label": "Technical"
+  },
+  {
+    "type": "experience",
+    "subtype": "other",
+    "icon": "contacts",
+    "label": "Other Professional"
+  },
+  {
+    "type": "experience",
+    "subtype": "education",
+    "icon": "book",
+    "label": "Education"
+  },
+  {
+    "type": "experience",
+    "subtype": "projects_freelance",
+    "icon": "checklist",
+    "label": "Projects and Freelance"
+  }
+]
